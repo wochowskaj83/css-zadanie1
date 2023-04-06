@@ -1,0 +1,19 @@
+.paragraf1 {
+    background-color: #808080;
+    width: 15%;
+    text-indent: 1.5em;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #fea500;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-left: 2em;
+    margin-top: 0.5em;
+}
+
+.naglowek {
+    color: snow;
+}
